@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySelfApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="interest"><![CDATA[Interest: Technology , Manga & Novel]]></string>
+    <string name="daily"><![CDATA[Daily & Friends]]></string>
+    <string name="music_videos"><![CDATA[Music & Videos]]></string>
+</resources>
